@@ -13,6 +13,7 @@ versions:
   ghec: '*'
 topics:
   - Pages
+  - it-journey
 shortTitle: Custom domains in GitHub Pages
 ---
 
